@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.pinellia.wrech.starter.dynamic.config.cente.config.DynamicConfigCenterAutoConfig,cn.pinellia.wrech.starter.dynamic.config.cente.config.DynamicConfigCenterRegisterAutoConfig
