@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>pinellia-component-starter-dynamic-config-center</module>
+        <module>pinellia-component-starter-rule-tree-design-framework</module>
     </modules>
 
     <properties>

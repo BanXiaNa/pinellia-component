@@ -1,4 +1,4 @@
-package cn.pinellia.wrech.starter.dynamic.config.cente.type.common;
+package cn.pinellia.component.starter.dynamic.config.cente.type.common;
 
 /**
  * @Author BanXia

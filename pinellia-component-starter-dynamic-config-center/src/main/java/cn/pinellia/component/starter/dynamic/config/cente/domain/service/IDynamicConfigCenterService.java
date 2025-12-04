@@ -1,6 +1,6 @@
-package cn.pinellia.wrech.starter.dynamic.config.cente.domain.service;
+package cn.pinellia.component.starter.dynamic.config.cente.domain.service;
 
-import cn.pinellia.wrech.starter.dynamic.config.cente.domain.model.valobj.AttributeVO;
+import cn.pinellia.component.starter.dynamic.config.cente.domain.model.valobj.AttributeVO;
 
 /**
  * @Author BanXia

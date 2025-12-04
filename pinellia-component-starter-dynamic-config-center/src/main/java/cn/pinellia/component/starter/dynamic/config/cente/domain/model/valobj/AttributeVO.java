@@ -1,4 +1,4 @@
-package cn.pinellia.wrech.starter.dynamic.config.cente.domain.model.valobj;
+package cn.pinellia.component.starter.dynamic.config.cente.domain.model.valobj;
 
 /**
  * @Author BanXia

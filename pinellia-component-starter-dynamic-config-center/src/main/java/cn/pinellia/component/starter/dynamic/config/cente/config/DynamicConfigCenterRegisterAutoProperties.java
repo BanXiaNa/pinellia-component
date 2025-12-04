@@ -1,4 +1,4 @@
-package cn.pinellia.wrech.starter.dynamic.config.cente.config;
+package cn.pinellia.component.starter.dynamic.config.cente.config;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

@@ -1,10 +1,10 @@
-package cn.pinellia.wrech.starter.dynamic.config.cente.config;
+package cn.pinellia.component.starter.dynamic.config.cente.config;
 
-import cn.pinellia.wrech.starter.dynamic.config.cente.domain.model.valobj.AttributeVO;
-import cn.pinellia.wrech.starter.dynamic.config.cente.domain.service.DynamicConfigCenterService;
-import cn.pinellia.wrech.starter.dynamic.config.cente.domain.service.IDynamicConfigCenterService;
-import cn.pinellia.wrech.starter.dynamic.config.cente.listener.DynamicConfigCenterAdjustListener;
-import cn.pinellia.wrech.starter.dynamic.config.cente.type.common.Constants;
+import cn.pinellia.component.starter.dynamic.config.cente.domain.model.valobj.AttributeVO;
+import cn.pinellia.component.starter.dynamic.config.cente.domain.service.DynamicConfigCenterService;
+import cn.pinellia.component.starter.dynamic.config.cente.domain.service.IDynamicConfigCenterService;
+import cn.pinellia.component.starter.dynamic.config.cente.listener.DynamicConfigCenterAdjustListener;
+import cn.pinellia.component.starter.dynamic.config.cente.type.common.Constants;
 import org.redisson.Redisson;
 import org.redisson.api.RTopic;
 import org.redisson.api.RedissonClient;

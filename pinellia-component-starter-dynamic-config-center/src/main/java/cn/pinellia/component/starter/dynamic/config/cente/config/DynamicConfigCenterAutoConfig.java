@@ -1,6 +1,6 @@
-package cn.pinellia.wrech.starter.dynamic.config.cente.config;
+package cn.pinellia.component.starter.dynamic.config.cente.config;
 
-import cn.pinellia.wrech.starter.dynamic.config.cente.domain.service.IDynamicConfigCenterService;
+import cn.pinellia.component.starter.dynamic.config.cente.domain.service.IDynamicConfigCenterService;
 import org.springframework.beans.BeansException;
 import org.springframework.beans.factory.config.BeanPostProcessor;
 import org.springframework.context.annotation.Configuration;

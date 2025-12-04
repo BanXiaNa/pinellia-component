@@ -1,4 +1,4 @@
-package cn.pinellia.wrech.starter.dynamic.config.cente.type.annotations;
+package cn.pinellia.component.starter.dynamic.config.cente.type.annotations;
 
 import java.lang.annotation.*;
 

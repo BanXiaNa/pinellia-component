@@ -1,7 +1,7 @@
-package cn.pinellia.wrech.starter.dynamic.config.cente.listener;
+package cn.pinellia.component.starter.dynamic.config.cente.listener;
 
-import cn.pinellia.wrech.starter.dynamic.config.cente.domain.model.valobj.AttributeVO;
-import cn.pinellia.wrech.starter.dynamic.config.cente.domain.service.IDynamicConfigCenterService;
+import cn.pinellia.component.starter.dynamic.config.cente.domain.model.valobj.AttributeVO;
+import cn.pinellia.component.starter.dynamic.config.cente.domain.service.IDynamicConfigCenterService;
 import org.redisson.api.listener.MessageListener;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

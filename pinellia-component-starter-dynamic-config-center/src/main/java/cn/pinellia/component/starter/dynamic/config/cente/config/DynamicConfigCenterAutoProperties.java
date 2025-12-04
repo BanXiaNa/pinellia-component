@@ -1,6 +1,6 @@
-package cn.pinellia.wrech.starter.dynamic.config.cente.config;
+package cn.pinellia.component.starter.dynamic.config.cente.config;
 
-import cn.pinellia.wrech.starter.dynamic.config.cente.type.common.Constants;
+import cn.pinellia.component.starter.dynamic.config.cente.type.common.Constants;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 
 /**
