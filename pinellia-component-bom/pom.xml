@@ -10,7 +10,6 @@
     </parent>
 
     <artifactId>pinellia-component-bom</artifactId>
-
     <name>pinellia-component-bom</name>
     <description>pinellia component bom</description>
     <url>https://github.com/BanXiaNa/pinellia-component</url>
